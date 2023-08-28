@@ -1,0 +1,50 @@
+[
+    {
+        "Status": "OK",
+        "Message": "Good Job."
+    },
+    {
+        "Analytics": {
+            "Rating": 1.7,
+            "TotalSent": 0,
+            "Percent": 100.0,
+            "Completed": 3,
+            "TotalCount": 3
+        },
+        "AnalyticsGraph": {
+            "2": {
+                "dayname": "",
+                "dayrating": 0,
+                "daypercent": 0.0,
+                "month": 0,
+                "date_1": "/Date(1692687600000-0700)/",
+                "year": 0,
+                "dayratingcompleted": 1,
+                "daytotalcount": 0,
+                "day": 0
+            },
+            "1": {
+                "dayname": "Monday",
+                "dayrating": 4,
+                "daypercent": 100.0,
+                "month": 6,
+                "date_1": "/Date(1685948400000-0700)/",
+                "year": 2023,
+                "dayratingcompleted": 1,
+                "daytotalcount": 1,
+                "day": 5
+            },
+            "0": {
+                "dayname": "Monday",
+                "dayrating": 1,
+                "daypercent": 100.0,
+                "month": 5,
+                "date_1": "/Date(1684738800000-0700)/",
+                "year": 2023,
+                "dayratingcompleted": 1,
+                "daytotalcount": 1,
+                "day": 22
+            }
+        }
+    }
+]

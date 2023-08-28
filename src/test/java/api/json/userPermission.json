@@ -1,0 +1,37 @@
+[
+    {
+        "Status": "OK",
+        "Message": "Good Job."
+    },
+    {
+        "rows": [
+            {
+                "UserID": "8874455c-1964-410f-96d5-f98256c95265",
+                "UserName": "jamief@yopmail.com",
+                "UserTypeID": 16709,
+                "UserStatusTypeID": 123,
+                "Email": "jamief@yopmail.com",
+                "FirstName": "Jamie",
+                "LastName": "Fisher",
+                "Description": "",
+                "Company": "",
+                "TimeZoneTypeID": 0,
+                "PhotoFileID": "00000000-0000-0000-0000-000000000000",
+                "LogoFileID": "00000000-0000-0000-0000-000000000000",
+                "CreatedUserID": "00000000-0000-0000-0000-000000000000",
+                "ResetPasswordID": "57636bc9-5a0f-4120-9469-d5dc85e58e9d",
+                "LastLoggedIn": "2023-08-14T12:39:44.87",
+                "Phone": "",
+                "ADGroups": [
+                    
+                ],
+                "Permissions": [
+                    
+                ],
+                "ID": "8874455c-1964-410f-96d5-f98256c95265",
+                "Type": "AdministrationBO._UserRow",
+                "IsNew": false
+            }
+        ]
+    }
+]

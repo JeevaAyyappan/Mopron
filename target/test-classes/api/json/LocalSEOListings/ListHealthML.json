@@ -1,0 +1,20 @@
+{
+    "ID": "d750bddd-dee0-4af3-bd42-ba945519d67a",
+    "status": 200,
+    "message": "success",
+    "data": {
+        "countListingsInSync": 4,
+        "countListingsBeingUpdated": 4,
+        "countLocationsRequireSync": 0,
+        "countFieldsInSync": 0,
+        "directoriesMissingConnect": [
+            "GOOGLE"
+        ]
+    },
+    "error": null,
+    "pagination": null,
+    "stats": null,
+    "RequestDate": "/Date(1692701412318-0700)/",
+    "UTCOffset": "-07:00:00",
+    "TraceID": "api.mopro.com"
+}

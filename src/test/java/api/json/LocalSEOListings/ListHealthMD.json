@@ -1,0 +1,20 @@
+{
+    "ID": "eca4994f-8369-40cc-922d-cd7b05bf88b6",
+    "status": 200,
+    "message": "success",
+    "data": {
+        "countListingsInSync": 4,
+        "countListingsBeingUpdated": 4,
+        "countLocationsRequireSync": 0,
+        "countFieldsInSync": 0,
+        "directoriesMissingConnect": [
+            "GOOGLE"
+        ]
+    },
+    "error": null,
+    "pagination": null,
+    "stats": null,
+    "RequestDate": "/Date(1692701415809-0700)/",
+    "UTCOffset": "-07:00:00",
+    "TraceID": "api.mopro.com"
+}

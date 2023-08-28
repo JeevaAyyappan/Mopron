@@ -1,0 +1,76 @@
+[
+    {
+        "Status": "OK",
+        "Message": "Good Job."
+    },
+    {
+        "Feeds": {
+            "analysis": [
+                {
+                    "positivescore": 0,
+                    "negativescore": 0,
+                    "neutralscore": 0,
+                    "percentage": 0.0,
+                    "businessname": "BLK Earth Sea Spirits"
+                }
+            ],
+            "count": "0",
+            "rows": [
+                {
+                    "SocialReputationFeedID": "2394007a-5e87-4a2e-aaff-d4fb75f92afb",
+                    "network": "OpenTable",
+                    "usertype": true,
+                    "feedid": "12583919990",
+                    "feed": "Very good view, and decent pricing  Service a bit slow but friendly",
+                    "createdtime": "/Date(1685948400000-0700)/",
+                    "nameofuser": "christians",
+                    "userimageurl": "",
+                    "sentimentscore": 1,
+                    "feedlink": "",
+                    "userprofilelink": "",
+                    "param1": "4.0",
+                    "param2": "",
+                    "param3": "",
+                    "param4": "31432",
+                    "param5": "",
+                    "hascomment": 0,
+                    "SRSID": "5b5c091c-8b95-4b6d-a320-af97c5c0e9ef",
+                    "IsPublished": 0,
+                    "SurveyResponseTypeID": 0,
+                    "HasMedia": 0,
+                    "MediaURL": [
+                        
+                    ],
+                    "IsResponsed": 0
+                },
+                {
+                    "SocialReputationFeedID": "1f7705c7-c446-44fb-89be-2cd9a051fff2",
+                    "network": "OpenTable",
+                    "usertype": true,
+                    "feedid": "12583919992",
+                    "feed": "I booked this restaurant for a business meeting and this restaurante is like a pool restuarant, we did not have a proper table to have dinner, it was terrible. The descripton of this place is totally incorrect, since it is an informal place not for having a business dinner. Was a terrible experience",
+                    "createdtime": "/Date(1684738800000-0700)/",
+                    "nameofuser": "Nallely",
+                    "userimageurl": "",
+                    "sentimentscore": -1,
+                    "feedlink": "",
+                    "userprofilelink": "",
+                    "param1": "1.0",
+                    "param2": "",
+                    "param3": "",
+                    "param4": "31432",
+                    "param5": "",
+                    "hascomment": 0,
+                    "SRSID": "82200744-a52a-4264-b185-17a22bb6e3fd",
+                    "IsPublished": 0,
+                    "SurveyResponseTypeID": 0,
+                    "HasMedia": 0,
+                    "MediaURL": [
+                        
+                    ],
+                    "IsResponsed": 0
+                }
+            ]
+        }
+    }
+]

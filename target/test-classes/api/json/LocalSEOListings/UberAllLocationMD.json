@@ -1,0 +1,18 @@
+{
+    "ID": "e48740bf-44c0-4680-876b-39debbe00066",
+    "status": 200,
+    "message": "success",
+    "data": {
+        "ProjectUberallLocationMapID": "aa19fcab-c415-4c2e-9c29-85a1f05c09d6",
+        "ProjectID": "da6596c3-907f-418b-a6ce-b83a4a09493c",
+        "UberallLocationID": 3687249,
+        "AccessToken": "IEJE4RNw15bVCbmNEfO4Cph064l56pq2CuInXgMcA29xr0W0f1GaMxFoWWQ2LGsKyqx0VBZucIvBfhk8Vkq7QXoJRgp3JCl2KW1ezMukQnowa40bkpGI16L8uVgKMvdh",
+        "BaseUrl": "https://uberall.com"
+    },
+    "error": null,
+    "pagination": null,
+    "stats": null,
+    "RequestDate": "/Date(1692701413646-0700)/",
+    "UTCOffset": "-07:00:00",
+    "TraceID": "api.mopro.com"
+}

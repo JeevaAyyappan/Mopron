@@ -1,0 +1,20 @@
+{
+    "ID": "6c9c85f6-8165-4343-92bd-f363489db4c0",
+    "status": 200,
+    "message": "success",
+    "data": {
+        "ProfileWeightageValue": 15,
+        "IsBusinessInfoCompelete": false,
+        "IsAboutCompelete": false,
+        "IsMediaCompelete": false,
+        "BusinessInfoScore": 15,
+        "AboutScore": 0,
+        "MediaScore": 0
+    },
+    "error": null,
+    "pagination": null,
+    "stats": null,
+    "RequestDate": "/Date(1692701421666-0700)/",
+    "UTCOffset": "-07:00:00",
+    "TraceID": "api.mopro.com"
+}

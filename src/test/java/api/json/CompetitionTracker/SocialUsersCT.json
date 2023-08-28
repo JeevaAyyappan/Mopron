@@ -1,0 +1,12 @@
+{
+    "ID": "00000000-0000-0000-0000-000000000000",
+    "status": 200,
+    "message": "success",
+    "data": "{\"rows\":[{\"Name\":\"La Cabbanna\",\"ImageURL\":\"https://graph.facebook.com/v15.0/110662575451583/picture?type=square\",\"NetworkID\":1051,\"ProfileURL\":\"https://www.facebook.com/110662575451583\"},{\"Name\":\"https://www.opentable.com/r/las-palmas-singapore\",\"ImageURL\":\"\",\"NetworkID\":31432,\"ProfileURL\":null},{\"Name\":\"https://www.yelp.com/biz/fog-harbor-fish-house-san-francisco-2\",\"ImageURL\":\"\",\"NetworkID\":17151,\"ProfileURL\":null}]}",
+    "error": null,
+    "pagination": null,
+    "stats": null,
+    "RequestDate": "/Date(1693115953042-0700)/",
+    "UTCOffset": "-07:00:00",
+    "TraceID": "api.mopro.com"
+}
